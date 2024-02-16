@@ -14,3 +14,8 @@ const radius = 8; //number
 const circle = radius*2*PI; //number
 console.log(circle);
 
+// EXERCISE 3
+let name = 'Carlo'; //string
+name = 'Marco'; //string
+console.log(name);
+
